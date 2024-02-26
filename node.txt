@@ -1,0 +1,21 @@
+hello kavya
+
+create a basic utility:
+-building a small utility application using node.js
+-youtube live chat app with node js 
+
+project overview:
+-join a chat room 
+-send message to the chat 
+-see the messages from other participants in real-time 
+
+breakdown of the app:
+-frontend: html, css, js for the ui 
+-backend: node.js will handle server side logic in real time communication, 
+-technologies:
+-express.js framework 
+-socket.io library (for real time communication)
+
+steps:
+-install node and npm 
+-
